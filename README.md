@@ -1,1 +1,1 @@
-Flask blueprints for reuse purpose!
+Flask blueprints for reuse purpose.
